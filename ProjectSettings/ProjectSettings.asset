@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
+<<<<<<< HEAD
   productGUID: 70c1c0fd6e3264a40be3e1e5c51b49c3
+=======
+  productGUID: d0a8f4ba7c0d542c59bfc48138731ca7
+>>>>>>> 483174c (updates)
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: Challenge-5
+=======
+  productName: Challenge 5
+>>>>>>> 483174c (updates)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -769,14 +777,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: Challenge-5
+=======
+  metroPackageName: Challenge 5
+>>>>>>> 483174c (updates)
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: Challenge-5
+=======
+  metroApplicationDescription: Challenge 5
+>>>>>>> 483174c (updates)
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -846,10 +862,17 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: a07a840a-954f-4ce6-a01f-72e69c1d6619
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Challenge-5
+=======
+  cloudProjectId: 5ab9c4be-8a1a-4eb9-a9d1-60d62ba337b8
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Challenge 5
+>>>>>>> 483174c (updates)
   organizationId: jemeelah
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
